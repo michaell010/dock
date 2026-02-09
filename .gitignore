@@ -1,0 +1,13 @@
+# Docker
+mysql_data/
+*.log
+
+# Entornos
+.env
+
+# VS Code / Codespaces
+.vscode/
+.devcontainer/
+
+# Sistema
+.DS_Store
